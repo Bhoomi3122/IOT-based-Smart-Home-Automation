@@ -24,5 +24,5 @@ The Smart Home Automation project leverages IoT technology to create a user-frie
 - **Sensors**: Ultrasonic sensor, Gas sensor
 - **Actuators**: Servo motor, Buzzer
 - **Communication**: Bluetooth, Wi-Fi (future integration)
-- **Mobile App**: [Specify the platform or technology used for the app]
+- **Mobile App**: MIT App Inventor
 
